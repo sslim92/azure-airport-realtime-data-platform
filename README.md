@@ -7,7 +7,7 @@
 | 항목 | 내용 |
 |---|---|
 | 개발 형태 | 6인 팀 프로젝트 |
-| 개발 기간 | 2025년 7월 · 공식 구현 2주, 사전 팀 구성 및 아이디어 논의 약 1주 |
+| 개발 기간 | 2025.07.01 ~ 2025.07.20 · 공식 구현 2주, 사전 팀 구성 및 아이디어 논의 약 1주 |
 | 본인 | 임승수 |
 | 핵심 담당 | Azure 데이터 수집·정제 파이프라인 구현, 학습·추론용 데이터 공동 구성, 중복 호출 문제 공동 해결 |
 | 핵심 기술 | Python, PySpark, Azure Functions, Event Hubs, Stream Analytics, Data Factory, Databricks, PostgreSQL |
